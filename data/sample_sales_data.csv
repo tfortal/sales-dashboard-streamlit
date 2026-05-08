@@ -1,0 +1,31 @@
+date,order_id,customer,product,category,sales_channel,quantity,unit_price
+2026-01-03,ORD-1001,Alpha Ltd,Notebook Stand,Accessories,Website,2,45.00
+2026-01-05,ORD-1002,Beta Store,Wireless Mouse,Electronics,Marketplace,5,25.00
+2026-01-07,ORD-1003,Gamma Co,USB-C Hub,Electronics,Website,3,60.00
+2026-01-10,ORD-1004,Delta Services,Desk Organizer,Office,Direct Sales,4,18.50
+2026-01-13,ORD-1005,Alpha Ltd,Monitor Arm,Accessories,Website,1,120.00
+2026-01-15,ORD-1006,Epsilon Group,Keyboard,Electronics,Marketplace,2,75.00
+2026-01-18,ORD-1007,Beta Store,Laptop Sleeve,Accessories,Marketplace,6,22.00
+2026-01-20,ORD-1008,Zeta Office,Desk Lamp,Office,Direct Sales,2,35.00
+2026-01-22,ORD-1009,Gamma Co,Webcam,Electronics,Website,1,85.00
+2026-01-25,ORD-1010,Delta Services,Cable Organizer,Office,Marketplace,10,8.00
+2026-02-02,ORD-1011,Alpha Ltd,USB-C Hub,Electronics,Website,4,60.00
+2026-02-04,ORD-1012,Beta Store,Notebook Stand,Accessories,Marketplace,3,45.00
+2026-02-06,ORD-1013,Epsilon Group,Desk Organizer,Office,Direct Sales,5,18.50
+2026-02-09,ORD-1014,Zeta Office,Monitor Arm,Accessories,Website,2,120.00
+2026-02-12,ORD-1015,Gamma Co,Wireless Mouse,Electronics,Marketplace,6,25.00
+2026-02-15,ORD-1016,Delta Services,Keyboard,Electronics,Direct Sales,1,75.00
+2026-02-18,ORD-1017,Alpha Ltd,Cable Organizer,Office,Website,12,8.00
+2026-02-21,ORD-1018,Beta Store,Webcam,Electronics,Marketplace,2,85.00
+2026-02-24,ORD-1019,Epsilon Group,Laptop Sleeve,Accessories,Direct Sales,4,22.00
+2026-02-27,ORD-1020,Zeta Office,Desk Lamp,Office,Website,3,35.00
+2026-03-02,ORD-1021,Alpha Ltd,Keyboard,Electronics,Website,3,75.00
+2026-03-05,ORD-1022,Beta Store,Monitor Arm,Accessories,Marketplace,1,120.00
+2026-03-08,ORD-1023,Gamma Co,Desk Organizer,Office,Direct Sales,7,18.50
+2026-03-11,ORD-1024,Delta Services,USB-C Hub,Electronics,Website,2,60.00
+2026-03-14,ORD-1025,Epsilon Group,Notebook Stand,Accessories,Marketplace,4,45.00
+2026-03-17,ORD-1026,Zeta Office,Wireless Mouse,Electronics,Website,8,25.00
+2026-03-20,ORD-1027,Alpha Ltd,Desk Lamp,Office,Direct Sales,2,35.00
+2026-03-23,ORD-1028,Beta Store,Webcam,Electronics,Marketplace,3,85.00
+2026-03-26,ORD-1029,Gamma Co,Laptop Sleeve,Accessories,Website,5,22.00
+2026-03-29,ORD-1030,Delta Services,Cable Organizer,Office,Marketplace,15,8.00
