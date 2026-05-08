@@ -14,18 +14,18 @@ This dashboard provides a practical example of how to turn spreadsheet data into
 
 - Import sales data from CSV
 - Display key business indicators
-- Filter sales by date, product, category or sales channel
+- Filter sales by date, product category and sales channel
 - Analyze revenue trends
-- Identify best-selling products
-- Compare sales performance by category
-- Visualize business KPIs in an interactive dashboard
+- Identify revenue by product category
+- Compare sales performance by channel
+- Display filtered source data
 
 ## Example KPIs
 
 - Total revenue
 - Number of orders
 - Average ticket
-- Best-selling product
+- Total units sold
 - Revenue by category
 - Revenue by sales channel
 - Monthly sales trend
@@ -44,6 +44,7 @@ This dashboard provides a practical example of how to turn spreadsheet data into
 sales-dashboard-streamlit/
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 ├── app.py
 ├── data/
 │   └── sample_sales_data.csv
